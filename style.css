@@ -1,0 +1,37 @@
+body{
+    font-family: monospace;
+}
+h1{
+    text-decoration: underline;
+}
+.container{
+    text-align: center;
+    border-radius: 10px;
+    width: 30%;
+    height: 50%;
+    justify-content: center;
+}
+.textbox{
+   padding-left: 10px;
+ border: 1px solid;
+   height: 7%;
+   width: 50%;
+   border-radius: 15px;
+   font-size: large;
+   text-transform: lowercase;
+}
+.search{
+    cursor: pointer;
+    border-style: solid;
+    height: 10%;
+    width: 20%;
+    border-radius: 15px;
+    text-transform: capitalize;
+}
+.search:hover{
+    opacity: 0.9;
+    text-transform: uppercase;
+}
+.error{
+    color: red;
+}

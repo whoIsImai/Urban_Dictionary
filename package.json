@@ -1,0 +1,18 @@
+{
+  "name": "urban-dictionary",
+  "version": "1.0.0",
+  "description": "A simple urban dictionary web app",
+  "main": "Jscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Urban Dictionary"
+  },
+  "author": "Tlhogi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
